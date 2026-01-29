@@ -1,0 +1,6 @@
+//  Unusuario2: If you want to compile your custom shader you have to add the filename with extension.
+//	Example : lux_example_new_ps30.fxc
+
+//  Unusuario2: These are only test shader to test the workflow and the scripts
+lux_modelshadertest_vs30.fxc
+lux_modelshadertest_ps30.fxc
