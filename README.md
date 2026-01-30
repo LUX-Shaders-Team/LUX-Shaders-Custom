@@ -1,3 +1,8 @@
+<img src="https://github.com/user-attachments/assets/baa74c07-c669-4d25-82f0-01201567808e"
+     alt="800"
+     width="400">
+
+
 # LUX Shader Custom
 
 **LUX Shader Custom** is a repository that provides the necessary setup to create and compile custom shaders for the **LUX** environment. 
